@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://germanostrovsky-lawyer.zappy5.app
 מחפשים שירותים משפטיים בתשלום מראש בישראל? משרדנו בבת ים מציע ליווי מקצועי בתחום הנדל״ן, המשפחה והעסקים, עם דגש על קשרי ישראל-רוסיה. התקשרו עוד היום לייעוץ ראשוני.
 
 ### תחומי עיסוק
-https://example.com/practice-areas
+https://germanostrovsky-lawyer.zappy5.app/practice-areas
 צריכים ייצוג משפטי ממוקד? גרמן אוסטרובסקי מספק שירותי unbundled legal services בתחומי מקרקעין, דיני משפחה ומשפט עסקי בינלאומי. פתרונות גמישים המותאמים לצרכים שלכם.
 
 ### אודות
-https://example.com/about
+https://germanostrovsky-lawyer.zappy5.app/about
 הכירו את גרמן אוסטרובסקי, עורך דין בבת ים עם מומחיות ייחודית ביחסי ישראל-רוסיה. אנו מציעים שירותי pre paid legal services inc באופן אישי, מקצועי ונגיש לקהילה דוברת הרוסית.
 
 ### צור קשר
-https://example.com/contact
+https://germanostrovsky-lawyer.zappy5.app/contact
 זקוקים לשירותים משפטיים בחינם לאזרחים ותיקים? צרו קשר עם משרד גרמן אוסטרובסקי בבת ים לתיאום פגישה. אנחנו כאן כדי להקשיב, לייעץ ולהוביל אתכם לפתרון הטוב ביותר.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://germanostrovsky-lawyer.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://germanostrovsky-lawyer.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://germanostrovsky-lawyer.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -46,8 +46,8 @@ Information about WCAG compliance and accessibility features.
 - Address: Rotshild 30 Bat-Yamm, בת ים, Tel-aviv, ישראל
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://germanostrovsky-lawyer.zappy5.app/contact
+- Endpoint: https://germanostrovsky-lawyer.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -80,6 +80,6 @@ Legal Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://germanostrovsky-lawyer.zappy5.app/sitemap.xml
+- Robots: https://germanostrovsky-lawyer.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://germanostrovsky-lawyer.zappy5.app/llms-full.txt
