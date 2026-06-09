@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: germanadv@barak.net.il
+- Phone: +972036852201
+- Phone (tel): tel:+972036852201
+- Address: Rotshild 30 Bat-Yamm, בת ים, Tel-aviv, ישראל
 
 ### Contact form
 - URL: https://example.com/contact

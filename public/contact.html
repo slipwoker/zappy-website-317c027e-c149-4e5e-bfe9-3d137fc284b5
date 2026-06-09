@@ -354,7 +354,7 @@
     </svg>
   </button>
   
-  <button class="phone-header-btn" data-phone="[business_phone]" aria-label="Call">
+  <button class="phone-header-btn" data-phone="+972036852201" aria-label="Call">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
       <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
     </svg>
@@ -796,7 +796,7 @@
         const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
         const phoneNumber = phoneLinks.length > 0 
           ? phoneLinks[0].getAttribute('href').replace('tel:', '')
-          : '[business_phone]';
+          : '+972036852201';
         
         window.location.href = 'tel:' + phoneNumber;
         console.log('[Navbar] Phone button clicked');
@@ -898,11 +898,11 @@
           <ul class="contact-contact-form-section__details-list">
             <li class="contact-contact-form-section__details-item" data-zappy-contact-field="address">
               <svg class="contact-contact-form-section__icon" data-element-type="icon" data-icon-type="svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-              <span class="contact-contact-form-section__details-text">[business_address]</span>
+              <span class="contact-contact-form-section__details-text">Rotshild 30 Bat-Yamm, בת ים, Tel-aviv, ישראל</span>
             </li>
             <li class="contact-contact-form-section__details-item" data-zappy-contact-field="phone">
               <svg class="contact-contact-form-section__icon" data-element-type="icon" data-icon-type="svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-              <a href="tel:[business_phone]" class="contact-contact-form-section__details-link">[business_phone]</a>
+              <a href="tel:+972036852201" class="contact-contact-form-section__details-link">+972036852201</a>
             </li>
             
           </ul>
@@ -928,28 +928,7 @@
   </div>
 </section>
 
-<section class="contact-location-section" data-layout-spec="צור קשר-location">
-  <div class="contact-location-section__container">
-    <div class="contact-location-section__text-col">
-      <h2 class="contact-location-section__heading">המשרד שלנו בבת ים – הלב של גוש דן</h2>
-      <p class="contact-location-section__description">
-        משרד עורכי הדין גרמן אוסטרובסקי ממוקם בלב העיר בת ים, במרחק נגיעה מתל אביב וראשון לציון. מיקומנו האסטרטגי מאפשר לנו להעניק שירותים משפטיים מקיפים ללקוחות מכל רחבי גוש דן, תוך היכרות מעמיקה עם מערכת המשפט הישראלית והרישויות המקומיות. אנו מציעים ליווי צמוד, פגישות פרונטליות במשרדינו, ויחס אישי ששם דגש על שקיפות ומקצועיות.
-      </p>
-      <p class="contact-location-section__description">
-        מעבר למיקומנו הפיזי, אנו מעניקים שירותים משפטיים ללקוחות ברחבי ישראל ומחוצה לה – במיוחד ללקוחות מרוסיה וממדינות חבר העמים. בין אם אתם מתגוררים בחיפה, בירושלים, באילת, או במוסקבה, הצוות שלנו מיומן בניהול תיקים מרחוק תוך שימוש בטכנולוגיות מתקדמות ובשפה הרוסית על בוריה. אנו מבינים את הצרכים הייחודיים של לקוחות בינלאומיים ומציעים גמישות מרבית בתקשורת ובזמינות.
-      </p>
-      <a href="#contact-form" class="contact-location-section__cta btn-primary">קבעו פגישת ייעוץ</a>
-    </div>
-    <div class="contact-location-section__image-col">
-      <div class="contact-location-section__image-wrapper">
-        <img loading="eager" fetchpriority="high" data-placeholder="contact-location-image-1" data-context="A moody, atmospheric wide-angle photograph of the Bat Yam coastline and cityscape at dusk, with soft glowing street lights reflecting on the water. The image should feel editorial, calm, and place-based, with a subtle map-line texture overlay blending into the dark background of the section. The composition emphasizes the coastal urban identity of Bat Yam, Israel." width="600" height="400" src="/assets/site-contact-location-image-1.webp" alt="קו החוף של בת ים בשעת ערב – נוף עירוני המסמל את מיקום המשרד">
-        <div class="contact-location-section__image-overlay"></div>
-        <div class="contact-location-section__map-texture" aria-hidden="true"></div>
-      </div>
-    </div>
-  </div>
-  <div class="contact-location-section__decorative-line" aria-hidden="true"></div>
-</section>
+<section class="contact-location-section" data-layout-spec="צור קשר-location">Rotshild 30 Bat-Yamm, בת ים, Tel-aviv, ישראל</section>
 
 <section class="contact-closing-message-section" data-layout-spec="צור קשר-closing-message">
   <div class="contact-closing-message-section__container">
@@ -998,14 +977,14 @@
         <ul class="footer-contact">
           <li>
             <span class="contact-icon"><i class="fas fa-envelope"></i></span>
-            <span class="contact-text"><a href="mailto:[business_email]">[business_email]</a></span>
+            <span class="contact-text"><a href="mailto:germanadv@barak.net.il">germanadv@barak.net.il</a></span>
           </li>
           <li>
             <span class="contact-icon"><i class="fas fa-phone"></i></span>
-            <span class="contact-text"><a href="tel:[business_phone]">[business_phone]</a></span>
+            <span class="contact-text"><a href="tel:+972036852201">+972036852201</a></span>
           </li>
-          <li><a href="/"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
-            <span class="contact-text">[business_address]</span></a></li>
+          <li><a href="/" style="display:flex;align-items:flex-start;gap:inherit"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
+            <span class="contact-text">Rotshild 30 Bat-Yamm, בת ים, Tel-aviv, ישראל</span></a></li>
         </ul>
       </div>
       <div class="footer-col footer-hours-col">
@@ -1041,7 +1020,7 @@
   </div>
 </footer>
   
-  <a href="https://wa.me/[whatsapp_handle]" class="whatsapp-float" aria-label="WhatsApp">
+  <a href="https://wa.me/+972036852201" class="whatsapp-float" aria-label="WhatsApp">
     <i class="fab fa-whatsapp"></i>
   </a>
   
