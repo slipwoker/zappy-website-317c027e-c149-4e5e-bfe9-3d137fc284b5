@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-317c027e.zappy5.app
+https://example.com
 מחפשים שירותים משפטיים בתשלום מראש בישראל? משרדנו בבת ים מציע ליווי מקצועי בתחום הנדל״ן, המשפחה והעסקים, עם דגש על קשרי ישראל-רוסיה. התקשרו עוד היום לייעוץ ראשוני.
 
 ### תחומי עיסוק
-https://-317c027e.zappy5.app/practice-areas
+https://example.com/practice-areas
 צריכים ייצוג משפטי ממוקד? גרמן אוסטרובסקי מספק שירותי unbundled legal services בתחומי מקרקעין, דיני משפחה ומשפט עסקי בינלאומי. פתרונות גמישים המותאמים לצרכים שלכם.
 
 ### אודות
-https://-317c027e.zappy5.app/about
+https://example.com/about
 הכירו את גרמן אוסטרובסקי, עורך דין בבת ים עם מומחיות ייחודית ביחסי ישראל-רוסיה. אנו מציעים שירותי pre paid legal services inc באופן אישי, מקצועי ונגיש לקהילה דוברת הרוסית.
 
 ### צור קשר
-https://-317c027e.zappy5.app/contact
+https://example.com/contact
 זקוקים לשירותים משפטיים בחינם לאזרחים ותיקים? צרו קשר עם משרד גרמן אוסטרובסקי בבת ים לתיאום פגישה. אנחנו כאן כדי להקשיב, לייעץ ולהוביל אתכם לפתרון הטוב ביותר.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-317c027e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-317c027e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-317c027e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-317c027e.zappy5.app/contact
-- Endpoint: https://-317c027e.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Legal Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-317c027e.zappy5.app/sitemap.xml
-- Robots: https://-317c027e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-317c027e.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
